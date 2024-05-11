@@ -1,0 +1,12 @@
+cff-version: 1.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Khan"
+  given-names: "Moosa"
+  orcid: 
+
+title: "German land use analytics"
+version: 0.1
+doi: 
+date-released: 2024-05-12
+url: "https://gitup.uni-potsdam.de/khan11/land_use_analytics"
