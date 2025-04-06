@@ -34,7 +34,7 @@ The name of the dataset is soil area (actual use): states, reference data, types
 The code for cleaning of the dataset can viewed in data_processing.ipynb which is located in src folder.
 
 ## MIT License
-https://gitup.uni-potsdam.de/khan11/land_use_analytics/-/blob/main/LICENSE.txt
+This work is licensed under MIT License. You can find the details [here](https://github.com/Moosa-Anwar-Khan/German-Land-use-Analysis/blob/main/LICENSE)
 
 ## Citation
-https://gitup.uni-potsdam.de/khan11/land_use_analytics/-/blob/main/CITATION.cff
+You can find details [here](https://github.com/Moosa-Anwar-Khan/German-Land-use-Analysis/blob/main/CITATION.cff)
