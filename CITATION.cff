@@ -1,12 +1,9 @@
-cff-version: 1.0
+cff-version: 1.0.3
 message: "If you use this software, please cite it as below."
 authors:
-- family-names: "Khan"
-  given-names: "Moosa Anwar"
-  orcid: 
-
+  - family-names: "Khan"
+    given-names: "Moosa Anwar"
 title: "German land use analytics"
 version: 0.1
-doi: 
 date-released: 2024-05-12
 url: "https://github.com/Moosa-Anwar-Khan/German-Land-use-Analysis"
